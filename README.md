@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **swiftUI**
 
-- 👨‍💻 My portfolio website: [linkinprogress](linkinprogress)
+- 👨‍💻 My portfolio website: [https://venkatesh-website.herokuapp.com/]
 
 - 💬 Ask me about **python, swift and anime.**
 
