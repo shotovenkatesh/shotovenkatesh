@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python, swift and anime.**
 
-- 📫 How to reach me: **shotovenkatesh705@gmail.com**
+- 📫 How to reach me: **venkateshudayakumar705@gmail.com**
 
 - ⚡Have a cool project idea?. **Send me over a text and let's make it happen.**
 
