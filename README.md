@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **swiftUI**
 
-- 👨‍💻 My portfolio [website]([https://venkateshuk.me/](https://shotovenkatesh.github.io/))
+- 👨‍💻 My portfolio [website](https://shotovenkatesh.github.io/)
 
 - 💬 Ask me about **python, swift and anime.**
 
